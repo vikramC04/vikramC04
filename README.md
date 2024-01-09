@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vikramC04
-- 👀 I’m interested in data analytics, machine learning and software engineering
+- 👀 I’m interested in deep learning, data analytics and machine learning
 - 🌱 I’m currently learning software engineering at McMaster University
 - 📫 How to reach me: chandarv@mcmaster.ca
 
